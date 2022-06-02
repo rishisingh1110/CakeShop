@@ -49,7 +49,6 @@ $ npm start
 - React JS
 - React Router v6
 - React Context API + useReducer
-- Vanilla CSS integrated with [Muffin UI](https://muffinui.netlify.app/) Component Library
 - Git For Version Control
 - Vercel for Deployment
 - Cloudinary for Image Hosting
