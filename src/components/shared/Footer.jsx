@@ -48,7 +48,7 @@ function Footer() {
             </a>
           </li>
         </ul>
-        <p className="copyright">© 2022 | Bakin Lane</p>
+        <p className="copyright">© 2022 | Cinnamint Bakery</p>
       </footer>
     </>
   );
