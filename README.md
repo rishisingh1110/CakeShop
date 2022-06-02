@@ -38,10 +38,10 @@ $ npm start
 - User Profile Page to display the user details.
 - Address Management with Validation where user can add, edit and delete address.
 - Checkout Page to select the delivery address and proceed for payment.
-- Payment Integration using Razorpay API.
 - Order Summary Page where user can see all the orders sorted by the latest orders.
 - Pagination to show 8 products per page.
 - Alerts in the app to notify the users about success/failure operations.
+- Implemented Debouncing in Search bar.
 - All the screens are Responsive.
 
 ## Tech Stack and Tools
@@ -52,6 +52,11 @@ $ npm start
 - Git For Version Control
 - Vercel for Deployment
 - Cloudinary for Image Hosting
+
+## Snapshots
+
+![Homepage](https://github.com/rishisingh1110/CakeShop/blob/master/src/assets/images/cinna%201.png)
+![Products Page](https://github.com/rishisingh1110/CakeShop/blob/master/src/assets/images/cinna2.png)
 
 ## Live Link
 
