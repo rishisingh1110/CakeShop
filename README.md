@@ -60,4 +60,4 @@ $ npm start
 
 ## Live Link
 
-[Cinnamint Bakery](https://github.com/rishisingh1110/CakeShop.git)
+[Cinnamint Bakery](http://cake-shop-wheat.vercel.app/)
